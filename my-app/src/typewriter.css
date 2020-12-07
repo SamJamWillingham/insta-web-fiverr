@@ -278,3 +278,10 @@ body .dribbble img {
   display: block;
   height: 28px;
 }
+
+@media screen and (min-width: 360px) and (max-width: 480px) {
+  .typewriter_wrapper {
+    margin-left: 140px;
+    margin-bottom: 5px;
+  }
+}
